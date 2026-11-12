@@ -1,0 +1,15 @@
+# Secrets
+.env
+ 
+# Python
+venv/
+__pycache__/
+*.pyc
+ 
+# Generated files (keep the folders, not the contents)
+logs/*.log
+data/raw/*.json
+exports/*.csv
+ 
+# Editor
+.vscode/
